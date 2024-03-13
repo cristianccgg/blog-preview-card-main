@@ -1,0 +1,13 @@
+html,
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0%;
+}
+
+:root {
+  --main-Yellow: hsl(47, 88%, 63%);
+  --main-White: hsl(0, 0%, 100%);
+  --main-Grey: hsl(0, 0%, 50%);
+  --main-Black: hsl(0, 0%, 7%);
+}
