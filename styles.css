@@ -78,3 +78,8 @@ p {
 .author-name {
   font-size: 17px;
 }
+
+.attribution {
+  position: absolute;
+  bottom: 0px;
+}
